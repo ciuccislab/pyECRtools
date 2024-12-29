@@ -1,6 +1,6 @@
 # pyECRtools: A Python Toolbox for Electrical Conductivity Relaxation (ECR) Analysis
 
-**pyECRtools** is a Python translation of the original MATLAB-based ECRtools (available at https://github.com/ciuccislab/ECRtools/). This Python implementation provides the same powerful functionality for analyzing Electrical Conductivity Relaxation (ECR) data. Developed by Francesco Ciucci at the University of Bayreuth, this toolbox provides comprehensive tools for researchers working with ECR measurements.
+**pyECRtools** is a Python translation of the original MATLAB-based ECRtools (available at https://github.com/ciuccislab/ECRtools/). This Python implementation focuses on core functionalities for analyzing ECR data, providing essential tools for extracting kinetic and transport parameters from ECR measurements. While the graphical user interface and optimal experimental design features from the original ECRtools are not included, the package offers a streamlined, script-based approach for ECR analysis.
 
 ## Key Features
 
