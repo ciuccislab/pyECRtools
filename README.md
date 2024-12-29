@@ -45,7 +45,7 @@ If you use pyECRtools in your research, please cite:
 
 2. Wan, T. H., Saccoccio, M., Chen, C., & Ciucci, F. (2015). Assessing the identifiability of k and D in electrical conductivity relaxation via analytical results and nonlinearity estimates. *Solid State Ionics*, 270, 18-32. https://doi.org/10.1016/j.ssi.2014.11.026
 
-3. Effat, M. B., Quattrocchi, E., Wan, T. H., Saccoccio, M., Belotti, A., & Ciucci, F. (2017). Electrical Conductivity Relaxation in the Nonlinear Regime. *Journal of The Electrochemical Society*, 164(14), F1671. https://doi.org/10.1149/2.1241714jes
+3. Effat, M. B., Quattrocchi, E., Wan, T. H., Saccoccio, M., Belotti, A., & Ciucci, F. (2017). Electrical conductivity relaxation in the nonlinear regime. *Journal of The Electrochemical Society*, 164(14), F1671. https://doi.org/10.1149/2.1241714jes
 
 ## Support
 
